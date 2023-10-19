@@ -69,4 +69,4 @@ This project is licensed under the [MIT License](https://opensource.org/license/
 
 ## Contact
 
-For any inquiries or feedback, please contact [akoredeishola10@gmail.com](akoredeishola10@gmail.com).
+For any inquiries or feedback, please contact [akoredeishola10@gmail.com].
