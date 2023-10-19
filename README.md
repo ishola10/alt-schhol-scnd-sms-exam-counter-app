@@ -1,14 +1,15 @@
 # Counter App
 
 The Counter App is a simple and versatile application that allows you to keep track of numbers with ease. Whether you need to count occurrences, keep score in a game, or manage quantities, this app provides you with the tools to do so efficiently. This project was in structed by [altschoolafrica](https://altschoolafrica.com/)
+Check it out [counterapp](https://65306970c89cae2d20f6bb26--countterr-app.netlify.app/)
 
 ## Features
 
-Increment: Increase the count with a simple click of a button.
-Decrement: Decrease the count to subtract from the total.
-Reset: Reset the count to its initial value.
-Set Value: Set a custom value for the count.
-Error Handling: Gracefully handle errors and display informative messages using an integrated error boundary.
+* Increment: Increase the count with a simple click of a button.
+* Decrement: Decrease the count to subtract from the total.
+* Reset: Reset the count to its initial value.
+* Set Value: Set a custom value for the count.
+* Error Handling: Gracefully handle errors and display informative messages using an integrated error boundary.
 
 ## Gets started
 
@@ -25,26 +26,43 @@ Install the required dependencies:
 
 ### Copy code
 npm install
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+## Usage
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+1. Start the development server:
 
-### Making a Progressive Web App
+### Copy code
+npm start
+Open your web browser and navigate to http://localhost:3000 to access the Counter App.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+2. Use the app to increment, decrement, reset, and set custom values for counting.Start the development server:
 
-### Advanced Configuration
+### Copy code
+npm start
+Open your web browser and navigate to http://localhost:3000 to access the Counter App.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+3. Use the app to increment, decrement, reset, and set custom values for counting.
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## Error Handling
 
-### `npm run build` fails to minify
+The Counter App includes an error boundary to gracefully handle any errors that may occur. If you'd like to test this feature, visit the "Test Error" page in the app, and it will demonstrate how errors are managed within the application.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Contributing
+
+We welcome contributions to the Counter App. If you have ideas for improvements or would like to report issues, please open an issue or create a pull request on our GitHub repository.
+
+## License
+
+This project is licensed under the [MIT License](https://opensource.org/license/mit/).
+
+## Acknowledgments
+
+* Built using React
+* Routing with React Router
+* Error handling inspired by best practices in React application development
+
+## Contact
+
+For any inquiries or feedback, please contact [akoredeishola10@gmail.com](akoredeishola10@gmail.com).
