@@ -18,10 +18,12 @@ Clone the repository to your local machine:
 
 ### Copy code
 git clone https://github.com/yourusername/counter-app.git
+
 Navigate to the project directory:
 
 ### Copy code
 cd counter-app
+
 Install the required dependencies:
 
 ### Copy code
@@ -34,12 +36,14 @@ npm install
 
 ### Copy code
 npm start
+
 Open your web browser and navigate to http://localhost:3000 to access the Counter App.
 
 2. Use the app to increment, decrement, reset, and set custom values for counting.Start the development server:
 
 ### Copy code
 npm start
+
 Open your web browser and navigate to http://localhost:3000 to access the Counter App.
 
 3. Use the app to increment, decrement, reset, and set custom values for counting.
